@@ -1,0 +1,32 @@
+{
+    "resource_logs": {
+        "2025-01-13 17:22:22": {
+            "current_memory": 179.44921875,
+            "current_cpu_percent": 7.7,
+            "current_cpu_usage": 0.616,
+            "total_cpus": 8
+        },
+        "2025-01-13 17:22:23": {
+            "current_memory": 179.47265625,
+            "current_cpu_percent": 20.9,
+            "current_cpu_usage": 1.672,
+            "total_cpus": 8
+        },
+        "2025-01-13 17:22:24": {
+            "current_memory": 179.47265625,
+            "current_cpu_percent": 24.4,
+            "current_cpu_usage": 1.952,
+            "total_cpus": 8
+        },
+        "2025-01-13 17:22:25": {
+            "current_memory": 179.47265625,
+            "current_cpu_percent": 26.3,
+            "current_cpu_usage": 2.104,
+            "total_cpus": 8
+        }
+    },
+    "peak_memory_global": 179.47265625,
+    "peak_cpu_global": 2.104,
+    "total_cpus": 8,
+    "total_time": 3.041271209716797
+}

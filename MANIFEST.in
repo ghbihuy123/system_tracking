@@ -1,0 +1,3 @@
+include ./dependencies/*.whl
+exclude *.pyc
+recursive-exclude __pycache__
